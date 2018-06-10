@@ -1,7 +1,8 @@
 extends Node
 
-func _ready():
-	# Called every time the node is added to the scene.
-	# Initialization here
-	pass
+onready var sprite = preload("res://Sprite.tscn")
 
+func _ready():
+	for i in range(10):
+		var s = sprite.instance()
+		add_child(s)
