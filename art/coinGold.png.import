@@ -7,10 +7,7 @@ path="res://.import/coinGold.png-f1c9a0a5fa3106f0ea09fc32dead14d2.stex"
 [deps]
 
 source_file="res://art/coinGold.png"
-source_md5="4779c74e4c83322e05d1a4dd08a74157"
-
 dest_files=[ "res://.import/coinGold.png-f1c9a0a5fa3106f0ea09fc32dead14d2.stex" ]
-dest_md5="993c45c2f16b04b9c584282554193c1e"
 
 [params]
 

@@ -7,10 +7,7 @@ path="res://.import/alienGreen_stand.png-8ac9d4d7e3307a4890acc0d194160015.stex"
 [deps]
 
 source_file="res://art/Player/alienGreen_stand.png"
-source_md5="a82c7ad3d38ceebae82ca665dea4a5f2"
-
 dest_files=[ "res://.import/alienGreen_stand.png-8ac9d4d7e3307a4890acc0d194160015.stex" ]
-dest_md5="fb8f25f5f58d0e36afceb56ef34876a9"
 
 [params]
 
